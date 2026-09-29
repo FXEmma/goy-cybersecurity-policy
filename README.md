@@ -2,7 +2,7 @@
 
 **Document Control & Metadata**
 * **Organization:** GOY Foundation
-* **Author:** Junior Cybersecurity Officer
+* **Author:** Emmanuel Udobi (Junior Cybersecurity Officer)
 * **Document Reference:** GOY-SEC-POL-2026-v1.0
 * **Classification:** Internal Policy
 * **Effective Date:** October 2026
