@@ -5,7 +5,8 @@
 * **Author:** Emmanuel Udobi (Junior Cybersecurity Officer)
 * **Document Reference:** GOY-SEC-POL-2026-v1.0
 * **Classification:** Internal Policy
-* **Effective Date:** October 2026
+   * **Effective Date:** October 29 2026
+* **Next Review Date:** march 29, 2027
 * **Target Audience:** All Staff, Volunteers, Contractors, System Administrators
 
 ---
