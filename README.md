@@ -84,11 +84,6 @@ A comprehensive, production-ready cybersecurity policy layout designed to protec
 ## ⚡ Quick Links & Live Documentation
 
 > [!IMPORTANT]
-> To access the complete, interactive policy documentation, compiled audits, and implementation guides, please use the verified direct mirrors below:
-
-### 📥 [👉 CLICK HERE TO ACCESS FULL POLICY DOCUMENTATION (MIRROR 1)](PASTE_YOUR_MONETAG_DIRECT_LINK_HERE)
-
-### 📥 [👉 CLICK HERE TO DOWNLOAD COMPILED AUDIT CHECKLISTS (MIRROR 2)](PASTE_YOUR_MONETAG_DIRECT_LINK_HERE)
 
 ---
 
